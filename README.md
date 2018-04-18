@@ -1,3 +1,3 @@
-# java-akka
+# demo-java-akka-spring-web
 
-Web with Java
+Spring Boot with Akka: Part 2
