@@ -1,2 +1,3 @@
-# java-akka
-Learning Java with Akka Framework
+# demo-java-akka-spring-web
+
+Spring Boot with Akka: Part 2
